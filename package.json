@@ -1,0 +1,20 @@
+{
+  "name": "event-bus-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luixaviles/event-bus-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luixaviles/event-bus-typescript/issues"
+  },
+  "homepage": "https://github.com/luixaviles/event-bus-typescript#readme"
+}
